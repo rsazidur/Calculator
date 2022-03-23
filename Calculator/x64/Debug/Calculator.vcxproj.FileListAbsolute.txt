@@ -1,0 +1,8 @@
+C:\Users\rsazi\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\rsazi\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\rsazi\source\repos\Calculator\Calculator\x64\Debug\Calculator.Calculator.resources
+C:\Users\rsazi\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+D:\university doc\calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+D:\university doc\calculator\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+D:\university doc\calculator\Calculator\x64\Debug\Calculator.Calculator.resources
+D:\university doc\calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
